@@ -1,4 +1,4 @@
-export const healthService = async () => {
+const healthService = async () => {
   try {
     return { success: true, body: 'good' };
   } catch (err) {
