@@ -2,7 +2,7 @@
   "name": "magic-8-ball-api",
   "version": "1.0.0",
   "description": "Magic 8-ball api",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "dev": "nodemon --config nodemon.json src/index.ts",
     "build": "tsc",
